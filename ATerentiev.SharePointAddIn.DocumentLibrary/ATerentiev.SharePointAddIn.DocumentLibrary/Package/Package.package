@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="142783e0-ae5e-4d58-9a40-89c884656e39" 
+        solutionId="142783e0-ae5e-4d58-9a40-89c884656e39" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ATerentiev.SharePointAddIn.DocumentLibrary"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="4db6f4fa-787a-4795-8743-f443a696621c" />
+  </features>
+</package>
